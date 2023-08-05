@@ -1,7 +1,7 @@
 # WordPress SMTP
 &nbsp;
 <p align="center" style="margin: 1rem 0;">
-    <img src="./assets/icon.png" width="150" />
+    <img src="./assets/icon.png" width="350" />
 </p>
 &nbsp;
 
