@@ -1,11 +1,15 @@
-# WordPress SMTP
+# WordPress SMTP 📨
 &nbsp;
 <p align="center" style="margin: 1rem 0;">
     <img src="./assets/icon-new.png" width="350" />
 </p>
 &nbsp;
 
-A bloatware free SMTP plugin for WordPress. This plugin does not bother you to upgrade to a paid version like most of the other plugins do, or add unnecessary styling / scripting.
+**There are many popular plugins already for this, why would I choose this one?**  
+  ✅ Does not add bloatware    
+  ✅ Does not spam you to upgrade to a paid version    
+  ✅ Does not add unnecessary CSS or JavaScript    
+  ✅ Non-commercial
 
 This is just a plain plugin which tells WordPress to use *PHPMailer* and *SMTP* with the provided settings.
 
