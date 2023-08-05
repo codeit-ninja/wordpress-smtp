@@ -14,7 +14,7 @@ This is just a plain plugin which tells WordPress to use *PHPMailer* and *SMTP* 
 Download the latest release, or when using composer use
 
 ```bash
-composer require codeit/codeit-ninja/wordpress-smtp
+composer require codeit-ninja/wordpress-smtp
 ```
 
 ## Usage
