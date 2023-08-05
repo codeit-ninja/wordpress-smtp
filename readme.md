@@ -6,6 +6,7 @@
 &nbsp;
 
 **There are many popular plugins already for this, why would I choose this one?**  
+
   ✅ Does not add bloatware    
   ✅ Does not spam you to upgrade to a paid version    
   ✅ Does not add unnecessary CSS or JavaScript    
