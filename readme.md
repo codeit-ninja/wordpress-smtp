@@ -24,7 +24,7 @@ composer require codeit-ninja/wordpress-smtp
 
 ## Usage
 
-Activate the plugin and go to `Settings -> SMTP`, provide the necessary detail. Before you enable it make sure you first send a test email. If the test failed, make sure to resolve the problem first before enabling!
+Activate the plugin and go to `Settings -> SMTP`, provide the necessary details. Before enabling, send a test mail frist! If the test failed, make sure to resolve the problems before enabling!
 
 <p align="left">
     <img src="./assets/screenshot-2.png" width="650" />
