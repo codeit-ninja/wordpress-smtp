@@ -1,0 +1,20 @@
+{
+    "name": "codeit-ninja/wordpress-smtp",
+    "description": "Use PHPMailer with SMTP instead of WordPress defaults wp_mail. You can setup your own SMTP settings on the wp-admin dashboard",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codeit-ninja",
+            "email": "richard@codeit.ninja"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeIT\\SMTP\\": "includes/"
+        }
+    }
+}
