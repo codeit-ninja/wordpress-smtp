@@ -22,7 +22,7 @@ composer require codeit/codeit-ninja/wordpress-smtp
 Activate the plugin and go to `Settings -> SMTP`, provide the necessary detail. Before you enable it make sure you first send a test email. If the test failed, make sure to resolve the problem first before enabling!
 
 <p align="left">
-    <img src="./assets/screenshot.png" width="650" />
+    <img src="./assets/screenshot-2.png" width="650" />
 </p>
 
 If you enable with a faulty config, none of your contact forms will work any longer.
