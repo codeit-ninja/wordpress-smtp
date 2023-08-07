@@ -7,7 +7,7 @@ Description:  Plain SMTP plugin without bloatware, advertising to a paid version
 This is just a plain  plugin that allows you to use custom SMTP settings, it will tell WordPress core to use `PHPMailer` 
 and the provided SMTP settings you defined in the dashboard.
 
-Version:      1.0.2
+Version:      1.0.3
 Author:       Code IT
 Author URI:   https://codeit.ninja/
 Text Domain:  codeit
@@ -15,7 +15,7 @@ License:      MIT License
 */
 require_once __DIR__ . '/vendor/autoload.php';
 
-define('CODEIT_SMTP_VERSION', '1.0.2');
+define('CODEIT_SMTP_VERSION', '1.0.3');
 define('CODEIT_SMTP_PLUGIN_FILE', __FILE__);
 define('CODEIT_SMTP_PLUGIN_BASENAME', plugin_basename(__FILE__));
 define('CODEIT_SMTP_PLUGIN_SLUG', 'codeit-smtp');
