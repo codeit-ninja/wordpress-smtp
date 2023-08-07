@@ -1,7 +1,7 @@
 <?php
 namespace CodeIT\SMTP;
 /*
-Plugin Name:  WP SMTP
+Plugin Name:  SMTP
 Plugin URI:   https://github.com/codeit-ninja/wordpress-smtp
 Description:  Plain SMTP plugin without bloatware, advertising to a paid version or commercial SMTP plugin.
 This is just a plain  plugin that allows you to use custom SMTP settings, it will tell WordPress core to use `PHPMailer` 
