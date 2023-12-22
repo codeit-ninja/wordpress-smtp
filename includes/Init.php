@@ -7,7 +7,7 @@ class Init
 
     function __construct()
     {
-        $this->options = get_option('codeit-smtp');
+        $this->options = get_option('codeit-smtp') ?: array();
         
         if( isset( $this->options['smtp-enable'] ) && $this->options['smtp-enable'] === 'on' ) 
         {
